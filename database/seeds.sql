@@ -17,4 +17,10 @@ VALUES ('John', 'Doe', 1, NULL),
        ('Jane', 'Smith', 2, NULL),
        ('Mike', 'Johnson', 3, 1),
        ('Emily', 'Brown', 4, 2),
-       ('Kevin', 'Martinez', 3, 1);
+       ('Kevin', 'Martinez', 3, 1),
+       ('Laura', 'Davis', 3, 1),
+       ('Tom', 'Garcia', 1, NULL),
+       ('Linda', 'Lee', 2, NULL),
+       ('Nathan', 'Harris', 3, 7),
+       ('Samantha', 'Clark', 4, 8),
+       ('Dave', 'Lewis', 3, 7);
