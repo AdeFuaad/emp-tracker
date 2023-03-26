@@ -1,5 +1,7 @@
 USE employee_db;
 
+TRUNCATE TABLE employee;
+
 INSERT INTO department (name)
 VALUES ('Sales'),
        ('Marketing'),
@@ -23,4 +25,6 @@ VALUES ('John', 'Doe', 1, NULL),
        ('Linda', 'Lee', 2, NULL),
        ('Nathan', 'Harris', 3, 7),
        ('Samantha', 'Clark', 4, 8),
-       ('Dave', 'Lewis', 3, 7);
+       ('Dave', 'Lewis', 3, 7),
+       ('Fuaad', 'Shobambi', 1, NULL),
+       ('Ade', 'Xavier', 2, NULL);
